@@ -8,31 +8,28 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['5212412377467', 'CREADOR', true],
-  ['5212411233838', 'CREADOR', true],
-  ['5212411719888', 'CREADOR', true],
-  ['5212414147874', 'CREADOR', true]
+  ['5216631621048', 'CREADOR', true],
   
 ];
 
 global.suittag = ['5212414147874'];
 global.prems = ['5212414147874'];
 
-global.packname = '乂✰ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ✰乂';
-global.author = '©ᴏғᴄ-ʏᴏᴠᴀɴɪ﹏✍';
+global.packname = 'PolBot';
+global.author = 'PolBot';
 global.vs = '1.10.90';
 global.version = vs
-global.gt = '乂✰ʜᴀᴅᴇs-ʙᴏᴛ-ᴍᴅ✰乂';
+global.gt = 'PolBot';
 global.hadesbot = gt
-global.yt = 'https://youtu.be/aPu9wQi-z8U';
+global.yt = 'https://www.youtube.com/@rosalia';
 global.youtube = yt
-global.ig = 'https://www.instagram';
+global.ig = 'https://www.instagram/lovurosi';
 global.hadesig = ig
 global.md = 'https://github.com/OFC-YOVANI/HADES-BOT-OMEGA.git';
 global.botxdf = md
-global.nn = 'https://chat.whatsapp.com/BgyxmpSY2VYE3MT0UbLAgf';
+global.nn = 'https://chat.whatsapp.com/HQi4vOX62V39VYYaOif0uM';
 global.nngrupo = nn
-global.nnn = 'https://chat.whatsapp.com/BgyxmpSY2VYE3MT0UbLAgf';
+global.nnn = 'https://chat.whatsapp.com/HQi4vOX62V39VYYaOif0uM';
 global.nnngrupo = nnn
 global.paypal = 'https://pay'
 global.donar = paypal
@@ -46,7 +43,7 @@ global.fg = '*❌ʟᴏ sᴇɴᴛɪᴍᴏs sᴇ ʜᴀ ɢᴇɴᴇʀᴀᴅᴏ ᴜɴ
 global.fallo = fg
 global.mg = '*❗ᴇsᴛᴇ ᴄᴏᴍᴀɴᴅᴏ ʟᴏ ʜᴀ ᴜsᴀᴅᴏ ɪɴᴄᴏʀʀᴇᴄᴛᴀᴍᴇɴᴛᴇ*';
 global.mal = mg
-global.eeg = '*📩ˢᵁ ᴿᴱᴾᴼᴿᵀᴱ ᴴᴬ ˢᴵᴰᴼ ᴱᴺⱽᴵᴬᴰᴼ📩*';
+global.eeg = '*📩 𝓢𝓾 𝓻𝓮𝓹𝓸𝓻𝓽𝓮 𝓱𝓪 𝓼𝓲𝓭𝓸 𝓮𝓷𝓿𝓲𝓪𝓭𝓸.*';
 global.envio = eeg
 global.eg = '*🍀ʀᴇsᴜʟᴛᴀᴅᴏ ᴇɴᴄᴏɴᴛʀᴀᴅᴏ✨*';
 global.exito = eg
